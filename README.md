@@ -1,4 +1,4 @@
 # Algorithms
 
-A few most popular sort algoritms.
+A few most popular sort algorithms.
 
