@@ -21,3 +21,6 @@ if(wynik[-1]==0):
     wynik.pop(-1)
 s=("Wynik:{}").format(wynik)
 print(s)
+
+
+f=[]
